@@ -45,4 +45,5 @@ int main() {
             cout<<"invalid i/t";
             break;
     }
+    return 0;
 }
