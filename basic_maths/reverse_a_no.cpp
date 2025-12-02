@@ -14,5 +14,6 @@ int main(){
         }
         else n=n/10;
     }
+    return 0;
 
 }
